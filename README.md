@@ -1,4 +1,4 @@
-# -
+A directory to store all ideas I get while sitting on the toilet, because why not?
 
 | # | Name | Effort (x/10) |
 | :---: | :---: | :---: |
